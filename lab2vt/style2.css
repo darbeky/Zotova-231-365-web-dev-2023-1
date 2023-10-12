@@ -1,0 +1,38 @@
+img{
+    width: 1500px;
+    height: 750px;;
+}
+html{
+    background-image: url("фон.jpg") ;
+}
+.container{
+    color: white;
+    background-color: rgb(210, 163, 231);
+    max-width: 30%;
+    margin: 0 auto;
+    margin-right: 30%;
+    margin-top: 20%;
+    text-align: center;
+    
+
+}
+
+button{
+    text-align: center;
+    padding-inline: 65px;
+    margin-left: 30%;
+    margin-right: 30%;
+    
+}
+body{
+    
+}
+.form-group{
+    margin-bottom: 5px;
+}
+fieldset{
+    border-color: rgb(234, 226, 238);
+}
+p{
+    margin: 5px;
+}

@@ -1,0 +1,38 @@
+.form-group{
+    margin-bottom: 20px;
+
+    
+}
+
+
+h1{
+    background-color:rgb(232, 175, 156);
+}
+fieldset{
+    border: none;
+
+    padding-left: 0px;
+    
+    
+}
+p{
+    margin: 5px; 
+}
+.text-center{
+    text-align: center;
+}
+.container{
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    max-width: 30%;
+
+    margin: 0 auto;
+}
+body{
+    background-color: rgba(241, 212, 190, 0.916);
+}
+legend{
+    font-weight:bold;
+}
+.n{
+    font-weight: bold;
+}
