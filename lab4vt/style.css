@@ -1,0 +1,46 @@
+
+.Vhod{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+}
+.Vhod h1{
+    color:rgb(218, 129, 218)
+}
+.buttons {
+    display: flex;
+    flex-direction: column;
+    margin: 0 auto;
+    gap: 10px
+}
+
+.tic-tak-toe{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-decoration:none;
+    width: 20rem;
+    height: 10rem;
+    background-color: rgb(180, 215, 245);
+    font-size: larger;
+    text-align: center;
+    color: black;
+    border: 2px solid rgb(5, 5, 103);
+    text-align: center;
+    font-size: xx-large;
+}
+.calc{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-decoration:none;
+    width: 20rem;
+    height: 10rem;
+    background-color: rgb(180, 215, 245);
+    font-size: larger;
+    border: 2px solid rgb(5, 5, 103);
+    color: black;
+    text-align: center;
+    font-size: xx-large;
+}

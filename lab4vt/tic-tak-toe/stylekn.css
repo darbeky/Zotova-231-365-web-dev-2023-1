@@ -1,0 +1,76 @@
+.game{
+    margin: 0 auto;
+    max-width: 70%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.game h1{
+    color:rgb(207, 113, 7);
+}
+.field{
+    max-width: 450px;
+    height: 450px;
+    margin: 0 auto;
+    border: 1px solid rgb(250, 196, 20);
+    background-color: rgb(233, 224, 168);
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.field-items{
+    color:rgb(58, 2, 2)
+}
+
+.new_game{
+    margin-top: 20px;
+    color:rgb(207, 113, 7)
+}
+.field-items{
+    width: 150px;
+    height: 150px;
+    border: 1px solid rgb(190, 147, 6);
+    box-sizing: border-box;
+    font-size: 150px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.error {
+    color: white;
+    background-color: red;
+    border: 1px solid rgb(155,45,58);
+    font-size: medium;
+    text-align: center;
+}
+
+.hidden {
+    display: none;
+}
+
+.success {
+    color: white;
+    background-color: rgb(153, 215, 153);
+    border: 1px solid rgb(0,148,0);
+    font-size: medium;
+    text-align: center;
+}
+
+
+.playdrow{
+    font-size:large;
+    text-align: center;
+    color: rgb(255, 255, 255);
+    background-color: rgb(254, 207, 0);
+    border: 1px solid rgb(255, 153, 51);
+}
+
+.message {
+    box-sizing: border-box;
+    width: 450px;
+    margin: 10px 0;
+    padding: 10px 5px;
+}
+
